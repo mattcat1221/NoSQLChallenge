@@ -18,3 +18,4 @@ I created a dictionary for the restaurant Penang Flavours and used insert_one() 
 
 I found the Business Type ID for Restaurant/Cafe/Canteen and updated Penang Flavours with its corresponding Business Type ID.
 
+<img width="1634" alt="Screenshot 2024-06-19 at 9 48 10 PM" src="https://github.com/mattcat1221/NoSQLChallenge/assets/158774626/1b6d3877-e76c-4123-9ca6-982528b2f7fe">
